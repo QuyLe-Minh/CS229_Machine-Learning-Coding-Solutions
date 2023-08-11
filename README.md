@@ -3,7 +3,7 @@
 
 # About
 This is solution for coding problems in CS229 Machine Learning Course taught by Mr.Andrew Ng. You can find it [here](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) .
-The problem set can be download from:
+The problem sets can be downloaded from:
 - [ps1](https://cs229.stanford.edu/summer2019/ps1.pdf)
 - [ps2](https://cs229.stanford.edu/summer2019/ps2.pdf)
 - [ps3](https://cs229.stanford.edu/summer2019/ps3.pdf)
