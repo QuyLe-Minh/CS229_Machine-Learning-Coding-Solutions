@@ -9,4 +9,4 @@ The problem sets can be downloaded from:
 - [ps3](https://cs229.stanford.edu/summer2019/ps3.pdf)
 
 # Bottom line
-My works are inspired a lot from [here](https://github.com/huyfam/cs229-solutions-2020). Moreover, I modified some pieces of code to make it more optimizer. Check it out!!!
+My works are inspired a lot from [this guy](https://github.com/huyfam/cs229-solutions-2020). Moreover, I modified some pieces of code to make it more optimizer. Check it out!!!
