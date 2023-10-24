@@ -195,9 +195,9 @@ def compute_best_svm_radius(train_matrix, train_labels, val_matrix, val_labels, 
 
 
 def main():
-    train_messages, train_labels = util.load_spam_dataset('D:\Coding\ps2\src\spam\spam_train.tsv')
-    val_messages, val_labels = util.load_spam_dataset('D:\Coding\ps2\src\spam\spam_val.tsv')
-    test_messages, test_labels = util.load_spam_dataset('D:\Coding\ps2\src\spam\spam_test.tsv')
+    train_messages, train_labels = util.load_spam_dataset('C:/Users/Admin/OneDrive - hcmut.edu.vn/Giáo trình/Machine Learning/Coding/ps2/src/spam/spam_train.tsv')
+    val_messages, val_labels = util.load_spam_dataset('C:/Users/Admin/OneDrive - hcmut.edu.vn/Giáo trình/Machine Learning/Coding/ps2/src/spam/spam_val.tsv')
+    test_messages, test_labels = util.load_spam_dataset('C:/Users/Admin/OneDrive - hcmut.edu.vn/Giáo trình/Machine Learning/Coding/ps2/src/spam/spam_test.tsv')
 
     dictionary = create_dictionary(train_messages)
 
